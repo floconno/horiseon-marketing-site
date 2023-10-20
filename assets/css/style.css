@@ -1,3 +1,4 @@
+/* Global styles applied */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,7 +8,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +24,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Naviagtion header*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* Hero class containing sections for SEO, Online Reputation Management, and Social Media Marketing */
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Benefits class containing Lead Generation, Brand Awareness, and Cost Management */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -101,7 +102,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Hero class styling elements */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -128,7 +129,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Hero class images */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -140,7 +141,7 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* Hero class headers */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -155,7 +156,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Footer */
 .footer {
     padding: 30px;
     clear: both;
