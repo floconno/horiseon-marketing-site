@@ -5,5 +5,7 @@ This repository contains refactored code for the Horiseon marketing site. The co
 
 ![Horiseon Marketing Site](assets/images/127.0.0.1_5500_index.html.png)
 
+## Link to deployed site
 
+https://floconno.github.io/horiseon-marketing-site/ 
 
